@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Моя гифка](https://raw.githubusercontent.com/nacty210808-gif/nacty210808-gif/01a2ff2bda448d852373821e4d63ad0d2d7847b3/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BE.gif)
 <!--
 **nacty210808-gif/nacty210808-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
